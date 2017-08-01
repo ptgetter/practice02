@@ -55,6 +55,8 @@ public class Prob5 {
 			
 			tryCount++;
 		}
+		
+		scan.close();
 	}
 
 }
