@@ -22,5 +22,6 @@ public class Prob2 {
 
         /* 출력 */
         System.out.printf("평균은 %.1f 입니다.", sum / intArray.length);
+        in.close();
 	}
 }
